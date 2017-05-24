@@ -12,7 +12,7 @@ import javax.ejb.Stateless;
  * @author 21303936
  */
 @Stateless
-public class GestionCommande implements GestionCommandeLocal {
+public class GestionCommande {
 
     // Add business logic below. (Right-click in editor and choose
     // "Insert Code > Add Business Method") 
