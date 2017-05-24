@@ -15,5 +15,5 @@ import javax.ejb.Stateless;
 public class GestionCommande implements GestionCommandeLocal {
 
     // Add business logic below. (Right-click in editor and choose
-    // "Insert Code > Add Business Method")
+    // "Insert Code > Add Business Method") 
 }
